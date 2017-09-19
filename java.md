@@ -69,7 +69,7 @@
 能够熟练使用Java，熟悉AKKA，阅读过AKKA cluster和remote模块源码，能熟练在linux环境下开发，熟悉linux命令行
 
 # 其他
-英语：四级
+英语：四级     
 爱好：篮球、羽毛球、压马路
 
 # 致谢
