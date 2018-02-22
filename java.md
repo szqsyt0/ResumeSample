@@ -18,6 +18,9 @@
 
 ---
 
+# 技术栈
+Java、Scala、Python、Shell、Karaf、Osgi、Akka、ETCD、Git、Linux、Maven、ODL
+
 # 工作经历
 
 ## 华为（ 2016年7月 ~ 至今 ）
