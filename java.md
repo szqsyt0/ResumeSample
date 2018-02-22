@@ -40,14 +40,14 @@ Java、Scala、Python、Shell、Karaf、Osgi、Akka、ETCD、Git、Linux、Maven
 ---
 
 # 技术
-能够熟练使用Java，熟悉AKKA，阅读过AKKA cluster和remote模块源码，能熟练在linux环境下开发，熟悉linux命令行
+熟练使用Java，熟悉AKKA源码，熟练使用linux，不一一描述...
 
 # 期望
 希望能够学习到更多的技术，参与更多分布式项目
 
 # 其他
 英语：四级     
-爱好：篮球、羽毛球、压马路
+爱好：篮球、羽毛球、桌球
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
