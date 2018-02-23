@@ -13,7 +13,7 @@
  - 工作年限：2年
  - Github：https://github.com/szqsyt0
 
- - 期望职位：Java开发
+ - 期望职位：Java、区块链、大数据、分布式中间件
  - 期望城市：杭州
 
 ---
