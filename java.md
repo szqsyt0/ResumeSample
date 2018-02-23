@@ -19,7 +19,7 @@
 ---
 
 # 技术栈
-Java、Scala、Python、Shell、Karaf、Osgi、Akka、ETCD、Git、Linux、Maven、ODL
+Java、Scala、Python、Shell、Karaf、Osgi、Akka、ETCD、Git、Linux、Maven、Opendaylight
 
 # 工作经历
 ## 杭州享量科技（2014年8月 ~ 2015年4月）
