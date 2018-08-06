@@ -39,7 +39,7 @@ Shell、Etcd、Git、Linux、Maven、Python
 - 使用Etcd对Akka集群启动流程进行改造，解决其首种子节点启动失败整集群无法启动的问题
 - 优化集群脑裂方案，在脑裂时，通过判断节点上各服务状态，保留一个最小可用集群
 
-### 3. 基于Etcd实现选举服务
+### 2. 基于Etcd实现选举服务
 作为核心人员完成选举服务开发，其他服务可托管到选举服务，从而实现主备倒换
 - 依赖Master-Agent框架，Agent集成选举功能。部署时APP将选举配置文件和Shell脚本存放到Agent的指定路径 services下，Agent为APP代理选举服务，并通过脚本实现APP的升主和降备
 - 管理面的WebBrowser集成托管选举APP的手动重启和主备状态查询功能
